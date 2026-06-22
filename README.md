@@ -1,4 +1,15 @@
-## Hi there 👋
+# 💫 Hi 👋, I'm Ashlesha Chute
+**An aspiring Data Analyst || Software Development || Python Developer**
+
+Email Me 👉 ✉️ **ashleshachute@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Python Development Project
+- 🌱 **I’m currently learning:** Python librarirs
+- 🤔 **I’m looking for opprtunities ** in Tech Background
+- 💬 **Ask me about:** Collaboration, Tech Support,Data Analytics
+- 📫 **How to reach me:** ashleshachute@gmail.com
+- 😄 **Pronouns:** Ashlesha Chute
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashlesha__21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashleshachute@gmail.com) 
